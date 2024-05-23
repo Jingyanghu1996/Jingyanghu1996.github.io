@@ -14,21 +14,36 @@ Jingyang Hu is currently pursuiting Ph.D. student with the College of Computer S
 
 Selected Publications
 ------
-**Markdown generator**
+**Journals:**
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. J. Hu, H. Jiang, Z. Xiao, S. Chen, S. Dustdar and J. Liu. HeadTrack: Real-time Human-Computer Interaction via Wireless Earphones. IEEE Journal on Selected Areas in Communications (IEEE JSAC). 
 
-------
-**Markdown generator**
+2. J. Hu, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. WiShield: Privacy against Wi-Fi Human Tracking. IEEE Journal on Selected Areas in Communications (IEEE JSAC).
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+3. J. Hu, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. Real-time Contactless Eye Blink Detection Using UWB Radar. IEEE Transactions on Mobile Computing (IEEE TMC). 
+
+4. J. Hu, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, J. Liu, and S. Dustdar. Combining IMU with Acoustics for Head Motion Tracking Leveraging Wireless Earphone. IEEE Transactions on Mobile Computing (IEEE TMC). 
+
+5. J. Hu, H Jiang, D Liu, Z Xiao, S Dustdar, J Liu. A Wireless Self-Service System for Library Using Commodity RFID Devices. IEEE Internet of Things Journal (IEEE IOTJ).
+
+6. H. Wang, J. Hu, T. Zheng, J. Hu, Z. Chen, H. Jiang, Y. Zheng and J. Luo. MuKI-Fi: Multi-person Keystroke Inference with BFI-enabled Wi-Fi Sensing. IEEE Transactions on Mobile Computing (IEEE TMC). 
+
+7. Q. Zhang, F. Zeng, J. Hu, Z. Xiao, and H. Jiang. Enhancing Perception for Intelligent Vehicles Via Electromagnetic Leakage. IEEE Transactions on Intelligent Transportation Systems (IEEE TITS).
+
+8. H. Jiang, S. Chen, Z. Xiao, J. Hu, J. Liu, and S. Dustdar. Pa-Count: Passenger Counting in Vehicles Using WiFi Signals. IEEE Transactions on Mobile Computing (IEEE TMC). 
+
+
+
+**Conferences:**
+
+1. J. Hu, H. Jiang, T. Zheng, J. Hu, H. Wang, H. Cao, Z. Chen, and J. Luo. M2-Fi: Multi-person Respiration Monitoring via Handheld WiFi Devices. In Proceedings of IEEE International Conference on Computer Communications (IEEE INFOCOM), 2024.
+
+2. S. Chen, H. Jiang, J. Hu, Z. Xiao, and D. Liu. Silent Thief: Password Eavesdropping Leveraging Wi-Fi Beamforming Feedback from POS Terminal. In Proceedings of IEEE International Conference on Computer Communications (IEEE INFOCOM), 2024.
+
+3. J. Hu, H. Jiang, D. Liu, Z. Xiao, H. Cao, Y. Qi, J. Liu, and S. Dustdar. An Acoustic Signal-based Middle-Ear Effusion Detection using Earphones. In Proceedings of IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), 2023.
+
+4. J. Hu, H. Wang, T. Zheng, J. Hu, Z. Chen, H. Jiang, and J. Luo. Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping. In Proceedings of ACM Conference on Computer and Communications Security (ACM CCS), 2023.
+
+5. J. Hu, D. Liu, H. Jiang, Z. Xiao, S. Dustdar, J. Liu, and G. Min. BlinkRadar: Non-Intrusive Driver Eye-Blink Detection with UWB Radar. In Proceedings of IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), 2022.
+
+6. H. Jiang, J. Hu, D. Liu, J. Xiong, and M. Cai. DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar. In Proceedings of ACM International Joint Conference on Pervasive and Ubiquitous Computing (ACM UbiComp), 2021.
