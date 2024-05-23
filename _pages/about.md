@@ -23,7 +23,7 @@ Selected Publications
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-======
+------
 **Markdown generator**
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
