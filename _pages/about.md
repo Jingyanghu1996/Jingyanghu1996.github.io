@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jingyang Hu is currently pursuiting Ph.D. student with the College of Computer Science and Electronic Engineering, Hunan University(supervised by Prof. [Hongbo Jiang](https://hongbojiang2004.github.io/en/), China. From 2022 to 2023, he works as a joint Ph.D. student at the School of Computer Science and Engineering at Nanyang Technological University(supervised by Prof. Jun Luo), Singapore. He has published papers in ACM Ubicomp, ACM CCS, IEEE INFOCOM, IEEE ICDCS, IEEE TMC, IEEE JSAC, IEEE TITS, IEEE IoT-J, etc. His research interests include mobile and pervasive computing, the Internet of Things, and machine learning.
+Jingyang Hu is currently pursuiting Ph.D. student with the College of Computer Science and Electronic Engineering, Hunan University(supervised by Prof. [Hongbo Jiang](https://hongbojiang2004.github.io/en/), China. From 2022 to 2023, he works as a joint Ph.D. student at the School of Computer Science and Engineering at Nanyang Technological University(supervised by Prof. [Jun Luo](https://personal.ntu.edu.sg/junluo/), Singapore. He has published papers in ACM Ubicomp, ACM CCS, IEEE INFOCOM, IEEE ICDCS, IEEE TMC, IEEE JSAC, IEEE TITS, IEEE IoT-J, etc. His research interests include mobile and pervasive computing, the Internet of Things, and machine learning.
 
 
 
