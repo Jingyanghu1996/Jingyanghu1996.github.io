@@ -21,10 +21,10 @@ Selected Publications
 ------
 **Journals:**
 
-1. **[IEEE JSAC'24]** **J. Hu**, H. Jiang, Z. Xiao, S. Chen, S. Dustdar and J. Liu. HeadTrack: Real-time Human-Computer Interaction via Wireless Earphones. IEEE Journal on Selected Areas in Communications. 
-2. **[IEEE JSAC'24]** **J. Hu**, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. WiShield: Privacy against Wi-Fi Human Tracking. IEEE Journal on Selected Areas in Communications.
-3. **[IEEE TMC'24]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. Real-time Contactless Eye Blink Detection Using UWB Radar. IEEE Transactions on Mobile Computing. 
-4. **[IEEE TMC'24]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, J. Liu, and S. Dustdar. Combining IMU with Acoustics for Head Motion Tracking Leveraging Wireless Earphone. IEEE Transactions on Mobile Computing. 
+1. **[IEEE JSAC'24]** **J. Hu**, H. Jiang, Z. Xiao, S. Chen, S. Dustdar and J. Liu. "HeadTrack: Real-time Human-Computer Interaction via Wireless Earphones." IEEE Journal on Selected Areas in Communications. 
+2. **[IEEE JSAC'24]** **J. Hu**, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. "WiShield: Privacy against Wi-Fi Human Tracking." IEEE Journal on Selected Areas in Communications.
+3. **[IEEE TMC'24]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. "Real-time Contactless Eye Blink Detection Using UWB Radar." IEEE Transactions on Mobile Computing. 
+4. **[IEEE TMC'24]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, J. Liu, and S. Dustdar. "Combining IMU with Acoustics for Head Motion Tracking Leveraging Wireless Earphone." IEEE Transactions on Mobile Computing. 
 5. **J. Hu**, H Jiang, D Liu, Z Xiao, S Dustdar, J Liu. A Wireless Self-Service System for Library Using Commodity RFID Devices. IEEE Internet of Things Journal (IEEE IoT-J).
 6. H. Wang, **J. Hu**, T. Zheng, J. Hu, Z. Chen, H. Jiang, Y. Zheng and J. Luo. MuKI-Fi: Multi-person Keystroke Inference with BFI-enabled Wi-Fi Sensing. IEEE Transactions on Mobile Computing (IEEE TMC).
 7. P. Wang, R. Jiang, **J. Hu**, Y. Zhu, H. Jiang, M. Li, and C. Liu. AMT+: Acoustic Multi-target Tracking with Smartphone MIMO System. IEEE Transactions on Mobile Computing (IEEE TMC).
