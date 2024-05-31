@@ -11,11 +11,11 @@ Jingyang Hu is currently pursuiting Ph.D. student with the College of Computer S
 
 Research Interest
 ------
-*Wireless Sensing
-*Human Computer Interaction
-*Smart Healthcare
-*IoT Device Security
-*Machine Learning
+* Wireless Sensing
+* Human Computer Interaction
+* Smart Healthcare
+* IoT Device Security
+* Machine Learning
 
 Selected Publications
 ------
