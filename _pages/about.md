@@ -24,7 +24,8 @@ Selected Publications
 6. H. Wang, **J. Hu**, T. Zheng, J. Hu, Z. Chen, H. Jiang, Y. Zheng and J. Luo. MuKI-Fi: Multi-person Keystroke Inference with BFI-enabled Wi-Fi Sensing. IEEE Transactions on Mobile Computing (IEEE TMC).
 7. P. Wang, R. Jiang, **J. Hu**, Y. Zhu, H. Jiang, M. Li, and C. Liu. AMT+: Acoustic Multi-target Tracking with Smartphone MIMO System. IEEE Transactions on Mobile Computing (IEEE TMC).
 8. Q. Zhang, F. Zeng, **J. Hu**, Z. Xiao, and H. Jiang. Enhancing Perception for Intelligent Vehicles Via Electromagnetic Leakage. IEEE Transactions on Intelligent Transportation Systems (IEEE TITS).
-9. H. Jiang, S. Chen, Z. Xiao, **J. Hu**, J. Liu, and S. Dustdar. Pa-Count: Passenger Counting in Vehicles Using WiFi Signals. IEEE Transactions on Mobile Computing (IEEE TMC). 
+9. Q. Zhang, F. Zeng, **J. Hu**, D. Liu, L. Kuang, Z. Xiao, and H. Jiang. E-Argus: Drones Detection by Side-Channel Signatures via Electromagnetic Radiation. IEEE Transactions on Intelligent Transportation Systems (IEEE TITS).
+10. H. Jiang, S. Chen, Z. Xiao, **J. Hu**, J. Liu, and S. Dustdar. Pa-Count: Passenger Counting in Vehicles Using WiFi Signals. IEEE Transactions on Mobile Computing (IEEE TMC). 
 
 
 
