@@ -25,7 +25,7 @@ Selected Publications
 2. **J. Hu**, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. WiShield: Privacy against Wi-Fi Human Tracking. IEEE Journal on Selected Areas in Communications (IEEE JSAC).
 3. **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. Real-time Contactless Eye Blink Detection Using UWB Radar. IEEE Transactions on Mobile Computing (IEEE TMC). 
 4. **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, J. Liu, and S. Dustdar. Combining IMU with Acoustics for Head Motion Tracking Leveraging Wireless Earphone. IEEE Transactions on Mobile Computing (IEEE TMC). 
-5. **J. Hu**, H Jiang, D Liu, Z Xiao, S Dustdar, J Liu. A Wireless Self-Service System for Library Using Commodity RFID Devices. IEEE Internet of Things Journal (IEEE IOTJ).
+5. **J. Hu**, H Jiang, D Liu, Z Xiao, S Dustdar, J Liu. A Wireless Self-Service System for Library Using Commodity RFID Devices. IEEE Internet of Things Journal (IEEE IoT-J).
 6. H. Wang, **J. Hu**, T. Zheng, J. Hu, Z. Chen, H. Jiang, Y. Zheng and J. Luo. MuKI-Fi: Multi-person Keystroke Inference with BFI-enabled Wi-Fi Sensing. IEEE Transactions on Mobile Computing (IEEE TMC).
 7. P. Wang, R. Jiang, **J. Hu**, Y. Zhu, H. Jiang, M. Li, and C. Liu. AMT+: Acoustic Multi-target Tracking with Smartphone MIMO System. IEEE Transactions on Mobile Computing (IEEE TMC).
 8. Q. Zhang, F. Zeng, **J. Hu**, Z. Xiao, and H. Jiang. Enhancing Perception for Intelligent Vehicles Via Electromagnetic Leakage. IEEE Transactions on Intelligent Transportation Systems (IEEE TITS).
