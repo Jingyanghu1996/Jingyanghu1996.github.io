@@ -29,7 +29,6 @@ Selected Publications
 6. **[ACM IMWUT/Ubicomp’21]** H. Jiang, **J. Hu**, D. Liu, J. Xiong, and M. Cai. "DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar." [[paper](https://dl.acm.org/doi/10.1145/3478084)]
 
 **Journals:**
-
 1. **[IEEE JSAC]** **J. Hu**, H. Jiang, Z. Xiao, S. Chen, S. Dustdar and J. Liu. "HeadTrack: Real-time Human-Computer Interaction via Wireless Earphones." IEEE Journal on Selected Areas in Communications. [[paper](https://ieeexplore.ieee.org/document/10373032)]
 2. **[IEEE JSAC]** **J. Hu**, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. "WiShield: Privacy against Wi-Fi Human Tracking." IEEE Journal on Selected Areas in Communications. [[paper](https://ieeexplore.ieee.org/document/10557724)]
 3. **[IEEE TMC]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. "Real-time Contactless Eye Blink Detection Using UWB Radar." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10275113)]
@@ -40,7 +39,7 @@ Selected Publications
 8. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, Z. Xiao, and H. Jiang. "Enhancing Perception for Intelligent Vehicles Via Electromagnetic Leakage." IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10367800)]
 9. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, D. Liu, L. Kuang, Z. Xiao, and H. Jiang. "E-Argus: Drones Detection by Side-Channel Signatures via Electromagnetic Radiation." IEEE Transactions on Intelligent Transportation Systems. Accepted for publication.
 10. **[IEEE TMC]** H. Jiang, S. Chen, Z. Xiao, **J. Hu**, J. Liu, and S. Dustdar. "Pa-Count: Passenger Counting in Vehicles Using WiFi Signals." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10089148)]
-
+11. **[IEEE IoT-J]** Q. Zhang, P. Wang, H. Zheng, **J. Hu**, F. Zeng,  C. Liu, and H. Jiang. "CamShield: Tracing Electromagnetics to Steer Ultrasound Against Illegal Cameras." IEEE Internet of Things Journal. Accepted for publication.
 
 
 
