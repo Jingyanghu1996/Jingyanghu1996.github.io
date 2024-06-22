@@ -1,5 +1,3 @@
-![1719041071472](https://github.com/Jingyanghu1996/Jingyanghu1996.github.io/assets/170404559/8fb4e0cc-dbe0-40a0-bcfb-e88c850bd718)---
-permalink: /
 title: "Biography"
 author_profile: true
 redirect_from: 
