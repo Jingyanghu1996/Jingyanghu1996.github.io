@@ -1,3 +1,8 @@
+![1719041071472](https://github.com/Jingyanghu1996/Jingyanghu1996.github.io/assets/170404559/8fb4e0cc-dbe0-40a0-bcfb-e88c850bd718)---
+permalink: /
+title: "Biography"
+author_profile: true
+
 Jingyang Hu is currently pursuiting Ph.D. student with the College of Computer Science and Electronic Engineering, Hunan University (supervised by Prof. [Hongbo Jiang](https://hongbojiang2004.github.io/en/)), China. From 2022 to 2023, he works as a joint Ph.D. student at the School of Computer Science and Engineering at Nanyang Technological University (supervised by Prof. [Jun Luo](https://personal.ntu.edu.sg/junluo/)), Singapore. He has published papers in ACM Ubicomp, ACM CCS, IEEE INFOCOM, IEEE ICDCS, IEEE TMC, IEEE JSAC, IEEE TITS, IEEE IoT-J, etc. His research interests include mobile and pervasive computing, the Internet of Things, and machine learning.
 
 Research Interest
