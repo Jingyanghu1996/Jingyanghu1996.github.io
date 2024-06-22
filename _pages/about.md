@@ -1,4 +1,4 @@
----
+![1719041071472](https://github.com/Jingyanghu1996/Jingyanghu1996.github.io/assets/170404559/8fb4e0cc-dbe0-40a0-bcfb-e88c850bd718)---
 permalink: /
 title: "Biography"
 author_profile: true
@@ -30,16 +30,16 @@ Selected Publications
 
 **Journals:**
 1. **[IEEE JSAC]** **J. Hu**, H. Jiang, Z. Xiao, S. Chen, S. Dustdar and J. Liu. "HeadTrack: Real-time Human-Computer Interaction via Wireless Earphones." IEEE Journal on Selected Areas in Communications. [[paper](https://ieeexplore.ieee.org/document/10373032)]
-{%2. **[IEEE JSAC]** **J. Hu**, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. "WiShield: Privacy against Wi-Fi Human Tracking." IEEE Journal on Selected Areas in Communications. [[paper](https://ieeexplore.ieee.org/document/10557724)]%}
-2. **[IEEE TMC]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. "Real-time Contactless Eye Blink Detection Using UWB Radar." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10275113)]
-3. **[IEEE TMC]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, J. Liu, and S. Dustdar. "Combining IMU with Acoustics for Head Motion Tracking Leveraging Wireless Earphone." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10288089)]
-4. **[IEEE IoT-J]** **J. Hu**, H Jiang, D Liu, Z Xiao, S Dustdar, J Liu. "A Wireless Self-Service System for Library Using Commodity RFID Devices." IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/document/10201842)]
-5. **[IEEE TMC]** H. Wang, **J. Hu**, T. Zheng, J. Hu, Z. Chen, H. Jiang, Y. Zheng and J. Luo. "MuKI-Fi: Multi-person Keystroke Inference with BFI-enabled Wi-Fi Sensing." [[paper](https://ieeexplore.ieee.org/document/10443555)]
-6. **[IEEE TMC]** P. Wang, R. Jiang, **J. Hu**, Y. Zhu, H. Jiang, M. Li, and C. Liu. "AMT+: Acoustic Multi-target Tracking with Smartphone MIMO System." IEEE Transactions on Mobile Computing. Accepted for publication.
-7. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, Z. Xiao, and H. Jiang. "Enhancing Perception for Intelligent Vehicles Via Electromagnetic Leakage." IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10367800)]
-8. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, D. Liu, L. Kuang, Z. Xiao, and H. Jiang. "E-Argus: Drones Detection by Side-Channel Signatures via Electromagnetic Radiation." IEEE Transactions on Intelligent Transportation Systems. Accepted for publication.
-9. **[IEEE TMC]** H. Jiang, S. Chen, Z. Xiao, **J. Hu**, J. Liu, and S. Dustdar. "Pa-Count: Passenger Counting in Vehicles Using WiFi Signals." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10089148)]
-10. **[IEEE IoT-J]** Q. Zhang, P. Wang, H. Zheng, **J. Hu**, F. Zeng,  C. Liu, and H. Jiang. "CamShield: Tracing Electromagnetics to Steer Ultrasound Against Illegal Cameras." IEEE Internet of Things Journal. Accepted for publication.
+2. **[IEEE JSAC]** **J. Hu**, H. Jiang, S. Chen, Q. Zhang, Z. Xiao, D. Liu, B. Li and J. Liu. "WiShield: Privacy against Wi-Fi Human Tracking." IEEE Journal on Selected Areas in Communications. [[paper](https://ieeexplore.ieee.org/document/10557724)]
+3. **[IEEE TMC]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, G. Min, and J. Liu. "Real-time Contactless Eye Blink Detection Using UWB Radar." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10275113)]
+4. **[IEEE TMC]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, Q. Zhang, J. Liu, and S. Dustdar. "Combining IMU with Acoustics for Head Motion Tracking Leveraging Wireless Earphone." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10288089)]
+5. **[IEEE IoT-J]** **J. Hu**, H Jiang, D Liu, Z Xiao, S Dustdar, J Liu. "A Wireless Self-Service System for Library Using Commodity RFID Devices." IEEE Internet of Things Journal. [[paper](https://ieeexplore.ieee.org/document/10201842)]
+6. **[IEEE TMC]** H. Wang, **J. Hu**, T. Zheng, J. Hu, Z. Chen, H. Jiang, Y. Zheng and J. Luo. "MuKI-Fi: Multi-person Keystroke Inference with BFI-enabled Wi-Fi Sensing." [[paper](https://ieeexplore.ieee.org/document/10443555)]
+7. **[IEEE TMC]** P. Wang, R. Jiang, **J. Hu**, Y. Zhu, H. Jiang, M. Li, and C. Liu. "AMT+: Acoustic Multi-target Tracking with Smartphone MIMO System." IEEE Transactions on Mobile Computing. Accepted for publication. [[paper](https://ieeexplore.ieee.org/document/10568418)]
+8. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, Z. Xiao, and H. Jiang. "Enhancing Perception for Intelligent Vehicles Via Electromagnetic Leakage." IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/document/10367800)]
+9. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, D. Liu, L. Kuang, Z. Xiao, and H. Jiang. "E-Argus: Drones Detection by Side-Channel Signatures via Electromagnetic Radiation." IEEE Transactions on Intelligent Transportation Systems. Accepted for publication.
+10. **[IEEE TMC]** H. Jiang, S. Chen, Z. Xiao, **J. Hu**, J. Liu, and S. Dustdar. "Pa-Count: Passenger Counting in Vehicles Using WiFi Signals." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10089148)]
+11. **[IEEE IoT-J]** Q. Zhang, P. Wang, H. Zheng, **J. Hu**, F. Zeng,  C. Liu, and H. Jiang. "CamShield: Tracing Electromagnetics to Steer Ultrasound Against Illegal Cameras." IEEE Internet of Things Journal. Accepted for publication.
 
 
 
