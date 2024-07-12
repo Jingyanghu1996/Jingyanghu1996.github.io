@@ -40,6 +40,7 @@ Selected Publications
 9. **[IEEE TITS]** Q. Zhang, F. Zeng, **J. Hu**, D. Liu, L. Kuang, Z. Xiao, and H. Jiang. "E-Argus: Drones Detection by Side-Channel Signatures via Electromagnetic Radiation." IEEE Transactions on Intelligent Transportation Systems. Accepted for publication.
 10. **[IEEE TMC]** H. Jiang, S. Chen, Z. Xiao, **J. Hu**, J. Liu, and S. Dustdar. "Pa-Count: Passenger Counting in Vehicles Using WiFi Signals." IEEE Transactions on Mobile Computing. [[paper](https://ieeexplore.ieee.org/document/10089148)]
 11. **[IEEE IoT-J]** Q. Zhang, P. Wang, H. Zheng, **J. Hu**, F. Zeng,  C. Liu, and H. Jiang. "CamShield: Tracing Electromagnetics to Steer Ultrasound Against Illegal Cameras." IEEE Internet of Things Journal. Accepted for publication.
+12. **[IEEE TMC]** S. Chen, H. Jiang, **J. Hu**, T. Zheng, M. Wang, Z. Xiao, D. Liu and J. Luo. "Echoes of Fingertip: Unveiling POS Terminal Passwords through Wi-Fi Beamforming Feedback." IEEE Transactions on Mobile Computing. Accepted for publication.
 
 
 
