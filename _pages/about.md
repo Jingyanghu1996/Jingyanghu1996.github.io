@@ -21,8 +21,8 @@ Selected Publications
 ------
 **Conferences:**
 1. **[ACM Mobihoc'24]** S. Chen, H. Jiang, J. xiong, **J. Hu**, P. Wang, C. Liu, Z. Xiao, and B. Li. "BeamCount: Indoor Crowd Counting Using Wi-Fi Beamforming Feedback Information." Accepted for publication.
-2. **[IEEE INFOCOM'24]** **J. Hu**, H. Jiang, T. Zheng, J. Hu, H. Wang, H. Cao, Z. Chen, and J. Luo. "M2-Fi: Multi-person Respiration Monitoring via Handheld WiFi Devices." Accepted for publication.
-3. **[IEEE INFOCOM'24]** S. Chen, H. Jiang, **J. Hu**, Z. Xiao, and D. Liu. "Silent Thief: Password Eavesdropping Leveraging Wi-Fi Beamforming Feedback from POS Terminal." Accepted for publication.
+2. **[IEEE INFOCOM'24]** **J. Hu**, H. Jiang, T. Zheng, J. Hu, H. Wang, H. Cao, Z. Chen, and J. Luo. "M2-Fi: Multi-person Respiration Monitoring via Handheld WiFi Devices." [[paper](https://ieeexplore.ieee.org/document/10621199)]
+3. **[IEEE INFOCOM'24]** S. Chen, H. Jiang, **J. Hu**, Z. Xiao, and D. Liu. "Silent Thief: Password Eavesdropping Leveraging Wi-Fi Beamforming Feedback from POS Terminal." [[paper](https://ieeexplore.ieee.org/document/10621321)]
 4. **[IEEE ICDCS'23]** **J. Hu**, H. Jiang, D. Liu, Z. Xiao, H. Cao, Y. Qi, J. Liu, and S. Dustdar. "EarSonar: An Acoustic Signal-Based Middle-Ear Effusion Detection Using Earphones." [[paper](https://ieeexplore.ieee.org/document/10272437)]
 5. **[ACM CCS'23]** **J. Hu**, H. Wang, T. Zheng, J. Hu, Z. Chen, H. Jiang, and J. Luo. "Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping." [[paper](https://dl.acm.org/doi/10.1145/3576915.3623088)]
 6. **[IEEE ICDCS'22]** **J. Hu**, D. Liu, H. Jiang, Z. Xiao, S. Dustdar, J. Liu, and G. Min. "BlinkRadar: Non-Intrusive Driver Eye-Blink Detection with UWB Radar." [[paper](https://ieeexplore.ieee.org/document/9912297)]
